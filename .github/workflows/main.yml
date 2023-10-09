@@ -1,0 +1,7 @@
+name: NodeJs Tracker
+
+on:
+  push:
+    branches:
+    - main
+    - release/*
